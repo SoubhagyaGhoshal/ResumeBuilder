@@ -1,5 +1,5 @@
 import Katex from "katex";
-import { htmlEscape } from "@renovamen/utils";
+import { htmlEscape } from "@resumebuilder/utils";
 const isValidDelim = (state, pos) => {
   const prevChar = pos > 0 ? state.src.charCodeAt(pos - 1) : -1;
   const nextChar = pos + 1 <= state.posMax ? state.src.charCodeAt(pos + 1) : -1;

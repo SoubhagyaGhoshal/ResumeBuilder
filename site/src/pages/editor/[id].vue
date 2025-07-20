@@ -54,7 +54,7 @@
 </template>
 
 <script lang="ts" setup>
-import { isInteger } from "@renovamen/utils";
+import { isInteger } from "@resumebuilder/utils";
 
 const route = useRoute();
 const { data } = useDataStore();

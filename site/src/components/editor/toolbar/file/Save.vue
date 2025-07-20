@@ -12,7 +12,7 @@
 </template>
 
 <script lang="ts" setup>
-import { useShortcuts } from "@ohmycv/vue-shortcuts";
+import { useShortcuts } from "@resumebuilder/vue-shortcuts";
 
 const { data } = useDataStore();
 const { styles } = useStyleStore();

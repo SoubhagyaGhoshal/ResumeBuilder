@@ -15,7 +15,7 @@
 </template>
 
 <script lang="ts" setup>
-import { useShortcuts } from "@ohmycv/vue-shortcuts";
+import { useShortcuts } from "@resumebuilder/vue-shortcuts";
 import { useFileDialog, readFile } from "@resumebuilder/utils";
 
 const emits = defineEmits<{

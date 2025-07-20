@@ -1,5 +1,5 @@
 import { toast } from "vue-sonner";
-import type { ChangedCase } from "@ohmycv/case-police";
+import type { ChangedCase } from "@resumebuilder/case-police";
 
 export const useToast = () => {
   const {

@@ -1,4 +1,4 @@
-import { injectCss } from "@ohmycv/dynamic-css";
+import { injectCss } from "@resumebuilder/dynamic-css";
 import { useConstant } from "~/composables/constant";
 import type { ResumeStyles } from "~/composables/stores/style";
 

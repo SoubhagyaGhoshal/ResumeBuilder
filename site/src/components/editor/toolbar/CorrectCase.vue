@@ -27,7 +27,7 @@
 </template>
 
 <script lang="ts" setup>
-import { replace } from "@ohmycv/case-police";
+import { replace } from "@resumebuilder/case-police";
 
 const { data, setAndSyncToMonaco } = useDataStore();
 const toast = useToast();

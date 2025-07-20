@@ -34,7 +34,7 @@
 </template>
 
 <script lang="ts" setup>
-import VueZoom from "@ohmycv/vue-zoom";
+import VueZoom from "@resumebuilder/vue-zoom";
 
 const scale = ref(1);
 const zoom = ref<InstanceType<typeof VueZoom>>();

@@ -1,5 +1,5 @@
 {
-  "buildCommand": "pnpm -w run build:pkg && cd site && pnpm run build",
+  "buildCommand": "pnpm -w run build:pkg && pnpm --filter ResumeBuilder run build",
   "outputDirectory": "site/.output/public",
   "installCommand": "pnpm install --no-frozen-lockfile",
   "framework": "nuxtjs"

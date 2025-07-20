@@ -1,5 +1,5 @@
 {
-  "name": "@ohmycv/vue-smart-pages",
+  "name": "@resumebuilder/vue-smart-pages",
   "version": "0.1.1",
   "description": "Automatically break your content into multiple pages, just like what Word does.",
   "homepage": "https://github.com/SoubhagyaGhoshal/ResumeBuilder/tree/main/packages/vue-smart-pages",

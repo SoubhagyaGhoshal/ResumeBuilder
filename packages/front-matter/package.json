@@ -1,5 +1,5 @@
 {
-  "name": "@ohmycv/front-matter",
+  "name": "@resumebuilder/front-matter",
   "version": "0.1.1",
   "description": "A better `js-yaml`, for extracting and parsing YAML front matter from strings.",
   "keywords": [

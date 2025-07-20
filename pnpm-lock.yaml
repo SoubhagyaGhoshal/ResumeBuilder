@@ -142,42 +142,42 @@ importers:
       '@nuxtjs/i18n':
         specifier: ^8.3.1
         version: 8.3.1(magicast@0.3.4)(rollup@4.18.0)(vue@3.4.31(typescript@5.5.3))
-      '@ohmycv/case-police':
-        specifier: workspace:*
-        version: link:../packages/case-police
-      '@ohmycv/dynamic-css':
-        specifier: workspace:*
-        version: link:../packages/dynamic-css
-      '@ohmycv/front-matter':
-        specifier: workspace:*
-        version: link:../packages/front-matter
-      '@ohmycv/google-fonts-loader':
-        specifier: workspace:*
-        version: link:../packages/google-fonts-loader
-      '@ohmycv/markdown-it-cross-ref':
-        specifier: workspace:*
-        version: link:../packages/markdown-it-cross-ref
-      '@ohmycv/markdown-it-katex':
-        specifier: workspace:*
-        version: link:../packages/markdown-it-katex
-      '@ohmycv/markdown-it-latex-cmds':
-        specifier: workspace:*
-        version: link:../packages/markdown-it-latex-cmds
-      '@ohmycv/vue-shortcuts':
-        specifier: workspace:*
-        version: link:../packages/vue-shortcuts
-      '@ohmycv/vue-smart-pages':
-        specifier: workspace:*
-        version: link:../packages/vue-smart-pages
-      '@ohmycv/vue-zoom':
-        specifier: workspace:*
-        version: link:../packages/vue-zoom
       '@pinia/nuxt':
         specifier: ^0.5.1
         version: 0.5.1(magicast@0.3.4)(rollup@4.18.0)(typescript@5.5.3)(vue@3.4.31(typescript@5.5.3))
+      '@resumebuilder/case-police':
+        specifier: workspace:*
+        version: link:../packages/case-police
+      '@resumebuilder/dynamic-css':
+        specifier: workspace:*
+        version: link:../packages/dynamic-css
+      '@resumebuilder/front-matter':
+        specifier: workspace:*
+        version: link:../packages/front-matter
+      '@resumebuilder/google-fonts-loader':
+        specifier: workspace:*
+        version: link:../packages/google-fonts-loader
+      '@resumebuilder/markdown-it-cross-ref':
+        specifier: workspace:*
+        version: link:../packages/markdown-it-cross-ref
+      '@resumebuilder/markdown-it-katex':
+        specifier: workspace:*
+        version: link:../packages/markdown-it-katex
+      '@resumebuilder/markdown-it-latex-cmds':
+        specifier: workspace:*
+        version: link:../packages/markdown-it-latex-cmds
       '@resumebuilder/utils':
         specifier: workspace:*
         version: link:../packages/utils
+      '@resumebuilder/vue-shortcuts':
+        specifier: workspace:*
+        version: link:../packages/vue-shortcuts
+      '@resumebuilder/vue-smart-pages':
+        specifier: workspace:*
+        version: link:../packages/vue-smart-pages
+      '@resumebuilder/vue-zoom':
+        specifier: workspace:*
+        version: link:../packages/vue-zoom
       '@types/markdown-it-link-attributes':
         specifier: ^3.0.5
         version: 3.0.5

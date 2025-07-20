@@ -1,5 +1,5 @@
 {
-  "name": "@ohmycv/vue-shortcuts",
+  "name": "@resumebuilder/vue-shortcuts",
   "version": "0.1.1",
   "description": "Use keyboard shortcuts in Vue.",
   "homepage": "https://github.com/SoubhagyaGhoshal/ResumeBuilder/tree/main/packages/vue-shortcuts",

@@ -1,5 +1,5 @@
 {
-  "name": "@ohmycv/dynamic-css",
+  "name": "@resumebuilder/dynamic-css",
   "version": "0.1.1",
   "description": "Dynamically injects global CSS.",
   "homepage": "https://github.com/SoubhagyaGhoshal/ResumeBuilder/tree/main/packages/dynamic-css",

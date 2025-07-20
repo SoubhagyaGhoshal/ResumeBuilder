@@ -1,5 +1,5 @@
 {
-  "name": "@ohmycv/markdown-it-latex-cmds",
+  "name": "@resumebuilder/markdown-it-latex-cmds",
   "version": "0.1.1",
   "description": "Enable using LaTeX like commands in markdown-it",
   "keywords": [

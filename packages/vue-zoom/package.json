@@ -1,5 +1,5 @@
 {
-  "name": "@ohmycv/vue-zoom",
+  "name": "@resumebuilder/vue-zoom",
   "version": "0.1.1",
   "description": "Vue 3 component for zooming content.",
   "homepage": "https://github.com/SoubhagyaGhoshal/ResumeBuilder/tree/main/packages/vue-zoom",

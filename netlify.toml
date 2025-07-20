@@ -1,6 +1,6 @@
 [build]
   base = "."
-  command = "pnpm install --no-frozen-lockfile && cd site && pnpm run build"
+  command = "pnpm install --no-frozen-lockfile && pnpm run build:pkg && cd site && pnpm run build"
   publish = "site/.output/public"
 
 [build.environment]

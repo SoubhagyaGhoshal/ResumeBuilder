@@ -2,5 +2,5 @@
   "buildCommand": "pnpm run build:pkg && cd site && pnpm run build",
   "outputDirectory": "site/.output/public",
   "installCommand": "pnpm install --no-frozen-lockfile",
-  "framework": "nuxt"
+  "framework": "nuxtjs"
 } 
